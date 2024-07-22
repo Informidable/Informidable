@@ -12,7 +12,7 @@ Voici les technologies et outils avec lesquels je travaille régulièrement :
 - **Bases de données**: PostgreSQL, MySQL
 - **Outils de développement**: Git, Docker, VS Code, Intellij Idea
 
-## 📚 Projets Publiques
+## 📚 Projets JS Publiques
 
 ### [Template NextJs, Prisma, React, TailwindCss](https://github.com/Informidable/Template-NextJs-Typescript-TailwindCss)
 Présentation d'un template fais en typescript, avec prisma et tailwindcss
@@ -20,7 +20,13 @@ Présentation d'un template fais en typescript, avec prisma et tailwindcss
 ### [Application Mobile WebView simple](https://github.com/Informidable/Template-Webview-NextJs)
 Présentation d'une application mobile permettant de visualiser le site web https://solid-asso.com
 
-(ajoute plus de projets si nécessaire)
+## 📚 Projets Java Publiques
+
+### [Plugin Minecraft Spigot | Guilds](link)
+Sources d'un plugin du jeu minecraft permettant d'ajouter un systeme de guildes
+
+### [Launcher JavaFX Minecraft Custom](link)
+Launcher minecraft custom qui permet de lancer le jeu minecraft avec des mods dans la version 1.16.5
 
 ## 🌱 Ce que j'apprends actuellement
 
