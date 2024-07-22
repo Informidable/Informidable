@@ -12,7 +12,7 @@ Voici les technologies et outils avec lesquels je travaille régulièrement :
 - **Bases de données**: PostgreSQL, MySQL
 - **Outils de développement**: Git, Docker, VS Code, Intellij Idea
 
-## 📚 Projets
+## 📚 Projets Publiques
 
 ### [Template NextJs, Prisma, React, TailwindCss](https://github.com/Informidable/Template-NextJs-Typescript-TailwindCss)
 Présentation d'un template fais en typescript, avec prisma et tailwindcss
