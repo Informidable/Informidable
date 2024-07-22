@@ -17,7 +17,7 @@ Voici les technologies et outils avec lesquels je travaille régulièrement :
 ### [Template NextJs, Prisma, React, TailwindCss](https://github.com/Informidable/Template-NextJs-Typescript-TailwindCss)
 Présentation d'un template fais en typescript, avec prisma et tailwindcss
 
-### [Application Mobile WebView simple](lien-du-projet)
+### [Application Mobile WebView simple](https://github.com/Informidable/Template-Webview-NextJs)
 Présentation d'une application mobile permettant de visualiser le site web https://solid-asso.com
 
 (ajoute plus de projets si nécessaire)
