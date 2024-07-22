@@ -14,7 +14,7 @@ Voici les technologies et outils avec lesquels je travaille régulièrement :
 
 ## 📚 Projets
 
-### [Template NextJs, Prisma, React, TailwindCss](lien-du-projet)
+### [Template NextJs, Prisma, React, TailwindCss](https://github.com/Informidable/Template-NextJs-Typescript-TailwindCss)
 Présentation d'un template fais en typescript, avec prisma et tailwindcss
 
 ### [Application Mobile WebView simple](lien-du-projet)
