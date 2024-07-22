@@ -18,7 +18,7 @@ Voici les technologies et outils avec lesquels je travaille régulièrement :
 Présentation d'un template fais en typescript, avec prisma et tailwindcss
 
 ### [Application Mobile WebView simple](lien-du-projet)
-Description du projet 2. Ce projet est une application en Java qui ...
+Présentation d'une application mobile permettant de visualiser le site web https://solid-asso.com
 
 (ajoute plus de projets si nécessaire)
 
